@@ -1,0 +1,211 @@
+Timestamp,Age,Gender,Highest level of education,Ward/area of residence,Candidate shown,"Before today, were you aware of this candidate's disclosures?",Favorability before seeing details (1-10),Favorability after seeing details (1-10),Favorability Change
+2026-08-01 00:00:00,39,Man,10th-12th pass,8,Neha Deshmukh,No,10.0,6.7,-3.3
+2026-08-01 00:11:00,53,Woman,Below 10th,8,Vandana Shinde,No,7.07,7.39,0.32
+2026-08-01 00:22:00,37,Man,Graduate,8,Poonam Pawar,No,2.89,2.27,-0.62
+2026-08-01 00:33:00,51,Woman,10th-12th pass,8,Vandana Shinde,No,3.17,2.7,-0.47
+2026-08-01 00:44:00,41,Woman,Graduate,8,Sunita Shinde,No,4.56,0.71,-3.85
+2026-08-01 00:55:00,33,Woman,Graduate,8,Kavita Rane,No,4.74,5.17,0.43
+2026-08-01 01:06:00,57,Woman,Graduate,8,Priya Shinde,No,4.99,5.09,0.1
+2026-08-01 01:17:00,47,Man,10th-12th pass,8,Sunita Jadhav,No,6.28,6.57,0.29
+2026-08-01 01:28:00,45,Man,10th-12th pass,8,Neha Deshmukh,No,6.72,5.54,-1.18
+2026-08-01 01:39:00,49,Man,Graduate,8,Kavita Shinde,Yes,6.37,6.2,-0.17
+2026-08-01 01:50:00,18,Woman,Post Graduate,9,Priya More,No,5.34,4.29,-1.05
+2026-08-01 02:01:00,41,Man,Below 10th,9,Suresh Rane,No,5.54,5.08,-0.46
+2026-08-01 02:12:00,28,Man,10th-12th pass,9,Prakash Kadam,Yes,5.67,4.83,-0.84
+2026-08-01 02:23:00,31,Woman,Below 10th,9,Sanjay Naik,No,5.14,4.92,-0.22
+2026-08-01 02:34:00,18,Woman,10th-12th pass,9,Sanjay Naik,Yes,6.17,5.51,-0.66
+2026-08-01 02:45:00,31,Man,10th-12th pass,9,Prakash Deshmukh,No,5.53,3.01,-2.52
+2026-08-01 02:56:00,18,Woman,Graduate,9,Priya More,No,6.87,8.4,1.53
+2026-08-01 03:07:00,18,Woman,10th-12th pass,9,Priya More,No,6.5,5.7,-0.8
+2026-08-01 03:18:00,25,Woman,Graduate,9,Priya More,No,5.26,5.16,-0.1
+2026-08-01 03:29:00,43,Man,Graduate,9,Priya More,No,6.71,6.61,-0.1
+2026-08-01 03:40:00,45,Man,10th-12th pass,10,Ganesh Patil,No,4.92,6.02,1.1
+2026-08-01 03:51:00,39,Woman,10th-12th pass,10,Sanjay Naik,No,5.35,5.67,0.32
+2026-08-01 04:02:00,29,Man,Graduate,10,Ganesh Patil,No,8.72,8.78,0.06
+2026-08-01 04:13:00,48,Woman,10th-12th pass,10,Kavita Shinde,No,7.25,8.22,0.97
+2026-08-01 04:24:00,42,Woman,10th-12th pass,10,Vijay Jadhav,No,5.69,5.52,-0.17
+2026-08-01 04:35:00,48,Woman,Graduate,10,Sanjay Kadam,No,5.67,5.56,-0.11
+2026-08-01 04:46:00,21,Man,10th-12th pass,10,Ganesh Naik,Yes,5.25,3.88,-1.37
+2026-08-01 04:57:00,60,Man,Post Graduate,10,Vijay Jadhav,No,8.23,6.27,-1.96
+2026-08-01 05:08:00,22,Woman,Graduate,10,Ganesh Naik,No,6.97,0.97,-6.0
+2026-08-01 05:19:00,50,Woman,10th-12th pass,10,Ganesh Patil,No,3.26,3.17,-0.09
+2026-08-01 05:30:00,30,Woman,10th-12th pass,11,Neha Jadhav,No,4.73,3.67,-1.06
+2026-08-01 05:41:00,35,Man,Below 10th,11,Neha Jadhav,No,5.73,5.08,-0.65
+2026-08-01 05:52:00,38,Woman,10th-12th pass,11,Neha Jadhav,No,9.73,9.96,0.23
+2026-08-01 06:03:00,48,Woman,Below 10th,11,Rekha Naik,No,5.89,5.64,-0.25
+2026-08-01 06:14:00,49,Woman,Post Graduate,11,Meena More,No,2.07,2.08,0.01
+2026-08-01 06:25:00,19,Man,10th-12th pass,11,Anita Naik,No,6.14,4.65,-1.49
+2026-08-01 06:36:00,45,Woman,10th-12th pass,11,Meena More,No,5.4,5.17,-0.23
+2026-08-01 06:47:00,41,Woman,Graduate,11,Rekha Naik,No,7.0,6.49,-0.51
+2026-08-01 06:58:00,32,Woman,10th-12th pass,11,Meena More,No,3.08,3.41,0.33
+2026-08-01 07:09:00,33,Man,Post Graduate,11,Meena More,Yes,4.06,3.72,-0.34
+2026-08-01 07:20:00,18,Man,10th-12th pass,12,Sunita Shinde,Yes,5.63,6.23,0.6
+2026-08-01 07:31:00,51,Man,Below 10th,12,Neha Jadhav,Yes,4.32,3.71,-0.61
+2026-08-01 07:42:00,42,Man,Graduate,12,Sunita Shinde,No,7.31,7.32,0.01
+2026-08-01 07:53:00,39,Woman,Graduate,12,Kavita Shinde,No,5.09,0.0,-5.09
+2026-08-01 08:04:00,47,Woman,10th-12th pass,12,Rekha Salvi,Yes,5.74,7.15,1.41
+2026-08-01 08:15:00,47,Woman,10th-12th pass,12,Anita Patil,Yes,2.7,2.96,0.26
+2026-08-01 08:26:00,39,Man,Graduate,12,Anita Patil,No,5.53,5.84,0.31
+2026-08-01 08:37:00,35,Man,10th-12th pass,12,Anita More,No,5.26,5.93,0.67
+2026-08-01 08:48:00,44,Man,10th-12th pass,12,Rekha Salvi,Yes,0.53,0.0,-0.53
+2026-08-01 08:59:00,33,Man,Graduate,12,Meena Deshmukh,Yes,6.77,5.52,-1.25
+2026-08-01 09:10:00,43,Man,Graduate,13,Sarika Pawar,No,6.13,6.54,0.41
+2026-08-01 09:21:00,47,Man,10th-12th pass,13,Anita Salvi,No,8.02,8.05,0.03
+2026-08-01 09:32:00,18,Man,Graduate,13,Sunita Jadhav,No,5.68,6.75,1.07
+2026-08-01 09:43:00,40,Woman,Graduate,13,Neha Salvi,No,4.38,0.74,-3.64
+2026-08-01 09:54:00,33,Woman,10th-12th pass,13,Sarika Pawar,Yes,6.51,6.52,0.01
+2026-08-01 10:05:00,37,Man,Post Graduate,13,Neha Patil,No,7.09,6.22,-0.87
+2026-08-01 10:16:00,33,Woman,Graduate,13,Priya Deshmukh,No,4.7,4.4,-0.3
+2026-08-01 10:27:00,36,Man,Post Graduate,13,Neha Patil,No,10.0,10.0,0.0
+2026-08-01 10:38:00,32,Woman,Graduate,13,Sunita Jadhav,No,6.38,6.63,0.25
+2026-08-01 10:49:00,32,Woman,Graduate,13,Neha Patil,No,3.8,1.54,-2.26
+2026-08-01 11:00:00,55,Man,10th-12th pass,14,Poonam Kadam,No,5.57,6.33,0.76
+2026-08-01 11:11:00,19,Woman,10th-12th pass,14,Neha Jadhav,No,4.77,4.1,-0.67
+2026-08-01 11:22:00,38,Woman,10th-12th pass,14,Neha Jadhav,No,4.0,3.14,-0.86
+2026-08-01 11:33:00,41,Man,Graduate,14,Poonam Kadam,Yes,7.89,5.81,-2.08
+2026-08-01 11:44:00,49,Man,Graduate,14,Poonam Kadam,No,5.65,5.17,-0.48
+2026-08-01 11:55:00,54,Woman,10th-12th pass,14,Poonam Kadam,Yes,6.41,5.85,-0.56
+2026-08-01 12:06:00,39,Man,Graduate,14,Sunita More,Yes,7.01,6.55,-0.46
+2026-08-01 12:17:00,48,Man,Graduate,14,Sunita More,No,8.93,7.49,-1.44
+2026-08-01 12:28:00,32,Woman,10th-12th pass,14,Poonam Naik,No,3.59,2.35,-1.24
+2026-08-01 12:39:00,25,Man,Graduate,14,Neha Jadhav,Yes,6.49,7.31,0.82
+2026-08-01 12:50:00,34,Man,Graduate,15,Vandana Rane,No,9.67,9.25,-0.42
+2026-08-01 13:01:00,52,Woman,10th-12th pass,15,Rekha Pawar,No,3.9,4.43,0.53
+2026-08-01 13:12:00,32,Woman,Graduate,15,Vandana Rane,No,8.15,9.0,0.85
+2026-08-01 13:23:00,40,Man,Graduate,15,Vandana Rane,No,5.29,3.98,-1.31
+2026-08-01 13:34:00,67,Man,Graduate,15,Anita Shinde,No,5.34,5.22,-0.12
+2026-08-01 13:45:00,29,Man,Graduate,15,Rekha Pawar,No,5.03,4.1,-0.93
+2026-08-01 13:56:00,23,Woman,Post Graduate,15,Rekha Pawar,No,5.88,5.95,0.07
+2026-08-01 14:07:00,24,Man,Graduate,15,Anita Shinde,No,4.35,2.04,-2.31
+2026-08-01 14:18:00,27,Woman,Post Graduate,15,Neha Pawar,No,9.8,10.0,0.2
+2026-08-01 14:29:00,18,Woman,Graduate,15,Rekha Pawar,No,4.72,5.53,0.81
+2026-08-01 14:40:00,53,Woman,Graduate,16,Neha Patil,Yes,9.4,9.48,0.08
+2026-08-01 14:51:00,57,Man,10th-12th pass,16,Neha Patil,No,6.84,6.78,-0.06
+2026-08-01 15:02:00,51,Man,10th-12th pass,16,Meena Jadhav,No,7.06,6.86,-0.2
+2026-08-01 15:13:00,18,Man,Post Graduate,16,Anita Naik,No,2.49,2.65,0.16
+2026-08-01 15:24:00,40,Woman,Graduate,16,Neha Patil,No,7.04,5.58,-1.46
+2026-08-01 15:35:00,36,Woman,10th-12th pass,16,Vandana Naik,Yes,5.39,5.37,-0.02
+2026-08-01 15:46:00,45,Man,Graduate,16,Meena Rane,No,1.99,0.4,-1.59
+2026-08-01 15:57:00,28,Man,Graduate,16,Neha Patil,No,4.46,5.3,0.84
+2026-08-01 16:08:00,24,Woman,Post Graduate,16,Meena Rane,Yes,5.57,5.19,-0.38
+2026-08-01 16:19:00,18,Woman,Post Graduate,16,Neha Patil,Yes,7.05,6.97,-0.08
+2026-08-01 16:30:00,23,Man,Below 10th,17,Anita Pawar,No,6.94,8.18,1.24
+2026-08-01 16:41:00,35,Man,Graduate,17,Kavita Deshmukh,No,3.76,0.0,-3.76
+2026-08-01 16:52:00,40,Woman,Post Graduate,17,Priya Deshmukh,No,4.74,4.07,-0.67
+2026-08-01 17:03:00,34,Woman,Graduate,17,Sarika Kadam,No,5.21,2.99,-2.22
+2026-08-01 17:14:00,55,Woman,Post Graduate,17,Rekha Kadam,Yes,1.45,0.0,-1.45
+2026-08-01 17:25:00,51,Man,Below 10th,17,Poonam Kadam,No,4.19,4.07,-0.12
+2026-08-01 17:36:00,53,Man,Below 10th,17,Rekha Kadam,No,6.6,6.44,-0.16
+2026-08-01 17:47:00,45,Woman,Post Graduate,17,Rekha Kadam,No,3.63,3.52,-0.11
+2026-08-01 17:58:00,33,Man,Below 10th,17,Poonam Kadam,No,4.52,4.63,0.11
+2026-08-01 18:09:00,34,Woman,Post Graduate,17,Meena Kadam,No,2.76,1.52,-1.24
+2026-08-01 18:20:00,42,Woman,10th-12th pass,18,Neha Kadam,No,4.0,4.34,0.34
+2026-08-01 18:31:00,19,Man,Post Graduate,18,Priya Rane,Yes,6.81,6.73,-0.08
+2026-08-01 18:42:00,30,Woman,Graduate,18,Vandana Naik,No,5.56,6.11,0.55
+2026-08-01 18:53:00,47,Man,Post Graduate,18,Vandana Naik,No,8.74,8.25,-0.49
+2026-08-01 19:04:00,58,Man,Graduate,18,Vandana Naik,No,6.62,6.94,0.32
+2026-08-01 19:15:00,52,Woman,Graduate,18,Vandana Pawar,No,4.8,3.85,-0.95
+2026-08-01 19:26:00,38,Man,10th-12th pass,18,Vandana Naik,Yes,7.56,7.9,0.34
+2026-08-01 19:37:00,33,Man,Below 10th,18,Vandana Naik,No,2.62,2.94,0.32
+2026-08-01 19:48:00,55,Man,10th-12th pass,18,Kavita Rane,No,2.6,2.01,-0.59
+2026-08-01 19:59:00,38,Woman,Below 10th,18,Priya Rane,Yes,6.5,6.41,-0.09
+2026-08-01 20:10:00,40,Woman,Below 10th,19,Poonam Kadam,Yes,8.61,8.54,-0.07
+2026-08-01 20:21:00,30,Man,Graduate,19,Rekha Salvi,Yes,6.27,4.45,-1.82
+2026-08-01 20:32:00,52,Man,10th-12th pass,19,Rekha Salvi,No,5.72,1.94,-3.78
+2026-08-01 20:43:00,53,Woman,10th-12th pass,19,Priya Shinde,No,6.25,5.82,-0.43
+2026-08-01 20:54:00,44,Woman,Graduate,19,Poonam Kadam,Yes,7.09,8.45,1.36
+2026-08-01 21:05:00,46,Man,Graduate,19,Rekha Salvi,Yes,4.99,3.63,-1.36
+2026-08-01 21:16:00,36,Man,10th-12th pass,19,Sarika Salvi,No,4.78,5.61,0.83
+2026-08-01 21:27:00,19,Man,Graduate,19,Poonam Kadam,No,7.67,7.82,0.15
+2026-08-01 21:38:00,49,Man,Graduate,19,Anita Kadam,No,3.35,3.37,0.02
+2026-08-01 21:49:00,47,Woman,10th-12th pass,19,Anita Kadam,Yes,5.35,5.9,0.55
+2026-08-01 22:00:00,27,Woman,10th-12th pass,20,Sarika Salvi,No,5.36,5.24,-0.12
+2026-08-01 22:11:00,71,Man,10th-12th pass,20,Sarika Salvi,No,5.79,5.3,-0.49
+2026-08-01 22:22:00,58,Man,Post Graduate,20,Sunita Shinde,Yes,1.28,1.17,-0.11
+2026-08-01 22:33:00,18,Woman,Post Graduate,20,Ganesh Deshmukh,No,6.85,7.03,0.18
+2026-08-01 22:44:00,49,Man,10th-12th pass,20,Vijay Shinde,No,4.73,2.82,-1.91
+2026-08-01 22:55:00,38,Man,Graduate,20,Ganesh Naik,Yes,4.22,4.38,0.16
+2026-08-01 23:06:00,29,Woman,Below 10th,20,Ganesh Deshmukh,No,5.0,5.29,0.29
+2026-08-01 23:17:00,25,Woman,10th-12th pass,20,Sarika Patil,No,5.28,5.34,0.06
+2026-08-01 23:28:00,34,Woman,10th-12th pass,20,Ganesh Naik,Yes,3.66,4.06,0.4
+2026-08-01 23:39:00,18,Man,10th-12th pass,20,Ganesh Salvi,No,5.46,6.74,1.28
+2026-08-01 23:50:00,32,Man,Post Graduate,21,Sunita More,No,4.53,6.55,2.02
+2026-08-02 00:01:00,23,Woman,10th-12th pass,21,Rekha Salvi,Yes,2.7,3.47,0.77
+2026-08-02 00:12:00,50,Man,10th-12th pass,21,Rekha Salvi,Yes,3.14,3.25,0.11
+2026-08-02 00:23:00,37,Woman,10th-12th pass,21,Sarika Patil,No,6.62,6.77,0.15
+2026-08-02 00:34:00,39,Woman,10th-12th pass,21,Rekha Salvi,No,5.29,5.5,0.21
+2026-08-02 00:45:00,44,Man,Graduate,21,Rekha Salvi,No,3.18,3.12,-0.06
+2026-08-02 00:56:00,38,Man,10th-12th pass,21,Sarika Patil,No,3.54,4.45,0.91
+2026-08-02 01:07:00,44,Man,Graduate,21,Neha Patil,No,7.67,8.04,0.37
+2026-08-02 01:18:00,41,Woman,Post Graduate,21,Neha Patil,No,6.59,6.15,-0.44
+2026-08-02 01:29:00,27,Man,Graduate,21,Meena Pawar,No,5.6,6.0,0.4
+2026-08-02 01:40:00,37,Woman,Graduate,22,Poonam Patil,No,3.63,0.6,-3.03
+2026-08-02 01:51:00,51,Woman,Graduate,22,Rekha Kadam,No,2.98,4.29,1.31
+2026-08-02 02:02:00,37,Man,10th-12th pass,22,Poonam Rane,No,3.19,3.11,-0.08
+2026-08-02 02:13:00,44,Woman,Post Graduate,22,Rekha Shinde,No,7.7,8.0,0.3
+2026-08-02 02:24:00,42,Woman,Graduate,22,Rekha Kadam,No,4.34,4.93,0.59
+2026-08-02 02:35:00,42,Woman,10th-12th pass,22,Anita Rane,Yes,3.42,4.79,1.37
+2026-08-02 02:46:00,41,Man,10th-12th pass,22,Poonam Rane,No,4.15,2.44,-1.71
+2026-08-02 02:57:00,27,Man,Post Graduate,22,Poonam Patil,Yes,7.86,7.65,-0.21
+2026-08-02 03:08:00,18,Man,Post Graduate,22,Poonam Patil,No,5.02,2.34,-2.68
+2026-08-02 03:19:00,20,Woman,Graduate,22,Poonam Patil,No,5.49,1.55,-3.94
+2026-08-02 03:30:00,24,Man,Graduate,23,Poonam Shinde,Yes,7.71,8.1,0.39
+2026-08-02 03:41:00,70,Man,Post Graduate,23,Kavita Shinde,No,6.18,5.36,-0.82
+2026-08-02 03:52:00,27,Man,10th-12th pass,23,Neha Salvi,No,6.59,5.73,-0.86
+2026-08-02 04:03:00,42,Woman,Graduate,23,Vijay Shinde,No,6.0,6.02,0.02
+2026-08-02 04:14:00,23,Man,Post Graduate,23,Prakash Pawar,No,7.97,6.73,-1.24
+2026-08-02 04:25:00,67,Woman,Graduate,23,Suresh Deshmukh,No,5.68,6.96,1.28
+2026-08-02 04:36:00,34,Woman,Graduate,23,Suresh Deshmukh,Yes,5.53,5.66,0.13
+2026-08-02 04:47:00,41,Man,10th-12th pass,23,Prakash Pawar,No,10.0,10.0,0.0
+2026-08-02 04:58:00,24,Woman,Graduate,23,Nilesh More,No,7.39,8.61,1.22
+2026-08-02 05:09:00,40,Woman,10th-12th pass,23,Kavita Shinde,No,6.47,5.38,-1.09
+2026-08-02 05:20:00,55,Woman,Graduate,24,Kavita Shinde,No,7.12,7.15,0.03
+2026-08-02 05:31:00,35,Man,10th-12th pass,24,Kavita Shinde,No,7.87,7.36,-0.51
+2026-08-02 05:42:00,18,Man,Post Graduate,24,Anita Kadam,No,2.98,0.03,-2.95
+2026-08-02 05:53:00,24,Man,10th-12th pass,24,Meena Kadam,No,6.42,6.45,0.03
+2026-08-02 06:04:00,40,Woman,Post Graduate,24,Neha More,No,5.48,5.46,-0.02
+2026-08-02 06:15:00,39,Man,10th-12th pass,24,Sarika Salvi,No,4.29,3.64,-0.65
+2026-08-02 06:26:00,29,Man,10th-12th pass,24,Neha Rane,No,2.65,2.8,0.15
+2026-08-02 06:37:00,44,Woman,10th-12th pass,24,Meena Kadam,No,1.55,2.25,0.7
+2026-08-02 06:48:00,18,Woman,Graduate,24,Neha Rane,No,7.54,7.85,0.31
+2026-08-02 06:59:00,21,Man,10th-12th pass,24,Meena Kadam,Yes,3.47,2.69,-0.78
+2026-08-02 07:10:00,52,Man,10th-12th pass,25,Vandana Patil,No,5.87,5.56,-0.31
+2026-08-02 07:21:00,36,Man,Graduate,25,Sarika Shinde,Yes,3.88,1.14,-2.74
+2026-08-02 07:32:00,26,Woman,10th-12th pass,25,Sanjay Shinde,No,9.64,10.0,0.36
+2026-08-02 07:43:00,29,Man,Graduate,25,Prakash Jadhav,No,5.71,5.66,-0.05
+2026-08-02 07:54:00,31,Man,10th-12th pass,25,Vandana Patil,Yes,5.8,5.77,-0.03
+2026-08-02 08:05:00,43,Man,Graduate,25,Vandana Patil,No,5.47,6.46,0.99
+2026-08-02 08:16:00,41,Man,Graduate,25,Sarika Shinde,No,5.32,0.94,-4.38
+2026-08-02 08:27:00,18,Man,Graduate,25,Prakash Jadhav,No,2.62,2.81,0.19
+2026-08-02 08:38:00,18,Man,Graduate,25,Sanjay Shinde,Yes,5.11,4.84,-0.27
+2026-08-02 08:49:00,32,Man,10th-12th pass,25,Priya Salvi,Yes,3.25,1.58,-1.67
+2026-08-02 09:00:00,64,Woman,10th-12th pass,26,Sanjay Salvi,No,5.71,5.23,-0.48
+2026-08-02 09:11:00,27,Woman,Graduate,26,Vijay Pawar,No,5.26,3.76,-1.5
+2026-08-02 09:22:00,27,Man,Graduate,26,Rekha Deshmukh,No,5.91,6.08,0.17
+2026-08-02 09:33:00,38,Woman,10th-12th pass,26,Amit Shinde,No,5.21,6.67,1.46
+2026-08-02 09:44:00,50,Woman,Graduate,26,Mahesh Shinde,Yes,3.66,4.62,0.96
+2026-08-02 09:55:00,55,Man,10th-12th pass,26,Sanjay Salvi,Yes,5.95,5.81,-0.14
+2026-08-02 10:06:00,55,Woman,10th-12th pass,26,Rekha Deshmukh,No,7.24,6.91,-0.33
+2026-08-02 10:17:00,42,Man,10th-12th pass,26,Nilesh Pawar,Yes,5.69,4.4,-1.29
+2026-08-02 10:28:00,53,Woman,10th-12th pass,26,Mahesh Shinde,Yes,2.99,3.38,0.39
+2026-08-02 10:39:00,38,Woman,Post Graduate,26,Ganesh Naik,Yes,4.81,4.8,-0.01
+2026-08-02 10:50:00,32,Woman,10th-12th pass,27,Sarika Shinde,Yes,2.75,1.91,-0.84
+2026-08-02 11:01:00,45,Woman,Post Graduate,27,Sarika Pawar,No,3.47,3.18,-0.29
+2026-08-02 11:12:00,34,Woman,10th-12th pass,27,Sarika Pawar,No,7.09,6.53,-0.56
+2026-08-02 11:23:00,37,Man,Graduate,27,Kavita Rane,No,6.56,6.18,-0.38
+2026-08-02 11:34:00,45,Man,Graduate,27,Meena Naik,No,5.56,4.59,-0.97
+2026-08-02 11:45:00,31,Woman,10th-12th pass,27,Sarika Shinde,No,4.1,3.77,-0.33
+2026-08-02 11:56:00,23,Man,Post Graduate,27,Anita Jadhav,No,6.1,5.49,-0.61
+2026-08-02 12:07:00,42,Woman,Below 10th,27,Meena Naik,No,7.61,7.15,-0.46
+2026-08-02 12:18:00,40,Man,10th-12th pass,27,Poonam Rane,No,10.0,9.32,-0.68
+2026-08-02 12:29:00,43,Man,10th-12th pass,27,Sarika Shinde,No,5.51,5.53,0.02
+2026-08-02 12:40:00,32,Woman,Post Graduate,28,Sarika Deshmukh,No,4.63,4.03,-0.6
+2026-08-02 12:51:00,22,Woman,10th-12th pass,28,Meena Naik,No,2.56,2.12,-0.44
+2026-08-02 13:02:00,59,Man,Graduate,28,Meena Naik,No,4.89,5.3,0.41
+2026-08-02 13:13:00,36,Man,10th-12th pass,28,Sarika Deshmukh,Yes,5.39,4.92,-0.47
+2026-08-02 13:24:00,30,Woman,Post Graduate,28,Meena Naik,No,5.07,4.59,-0.48
+2026-08-02 13:35:00,44,Man,Graduate,28,Vandana Salvi,No,3.51,2.33,-1.18
+2026-08-02 13:46:00,54,Woman,10th-12th pass,28,Sarika Salvi,No,7.07,8.17,1.1
+2026-08-02 13:57:00,53,Woman,Post Graduate,28,Sarika Salvi,Yes,7.91,7.71,-0.2
+2026-08-02 14:08:00,41,Woman,Graduate,28,Meena Naik,No,6.0,5.32,-0.68
+2026-08-02 14:19:00,39,Man,10th-12th pass,28,Vandana Salvi,No,7.47,9.68,2.21

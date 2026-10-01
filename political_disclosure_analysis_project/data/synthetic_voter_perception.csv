@@ -1,0 +1,211 @@
+respondent_id,ward,matched_candidate_id,respondent_age,respondent_gender,respondent_education,already_aware_pre_exposure,candidate_criminal_cases,candidate_serious_case,candidate_total_assets_inr,baseline_favorability,post_exposure_favorability,favorability_change
+1,8,3,39,Man,10th-12th pass,False,1,True,13555639.42,10.0,6.7,-3.3
+2,8,9,53,Woman,Below 10th,False,0,False,63715418.69,7.07,7.39,0.31
+3,8,6,37,Man,Graduate,False,0,False,12481033.94,2.89,2.27,-0.62
+4,8,9,51,Woman,10th-12th pass,False,0,False,63715418.69,3.17,2.7,-0.47
+5,8,2,41,Woman,Graduate,False,1,True,32833024.83,4.56,0.71,-3.84
+6,8,8,33,Woman,Graduate,False,0,False,513183657.41,4.74,5.17,0.43
+7,8,1,57,Woman,Graduate,False,0,False,20746938.86,4.99,5.09,0.1
+8,8,4,47,Man,10th-12th pass,False,0,False,7927797.15,6.28,6.57,0.29
+9,8,3,45,Man,10th-12th pass,False,1,True,13555639.42,6.72,5.54,-1.18
+10,8,5,49,Man,Graduate,True,1,False,18842887.31,6.37,6.2,-0.17
+11,9,10,18,Woman,Post Graduate,False,0,False,56574587.52,5.34,4.29,-1.05
+12,9,11,41,Man,Below 10th,False,0,False,28004388.02,5.54,5.08,-0.46
+13,9,14,28,Man,10th-12th pass,True,0,False,7152922.19,5.67,4.83,-0.83
+14,9,12,31,Woman,Below 10th,False,0,False,45824758.16,5.14,4.92,-0.22
+15,9,12,18,Woman,10th-12th pass,True,0,False,45824758.16,6.17,5.51,-0.66
+16,9,13,31,Man,10th-12th pass,False,1,False,12166232.76,5.53,3.01,-2.52
+17,9,10,18,Woman,Graduate,False,0,False,56574587.52,6.87,8.4,1.53
+18,9,10,18,Woman,10th-12th pass,False,0,False,56574587.52,6.5,5.7,-0.8
+19,9,10,25,Woman,Graduate,False,0,False,56574587.52,5.26,5.16,-0.11
+20,9,10,43,Man,Graduate,False,0,False,56574587.52,6.71,6.61,-0.1
+21,10,22,45,Man,10th-12th pass,False,0,False,16568502.84,4.92,6.02,1.1
+22,10,20,39,Woman,10th-12th pass,False,0,False,11158829.17,5.35,5.67,0.32
+23,10,18,29,Man,Graduate,False,0,False,9925889.84,8.72,8.78,0.06
+24,10,19,48,Woman,10th-12th pass,False,0,False,34678353.11,7.25,8.22,0.96
+25,10,16,42,Woman,10th-12th pass,False,0,False,986354004.43,5.69,5.52,-0.17
+26,10,23,48,Woman,Graduate,False,0,False,29268885.87,5.67,5.56,-0.11
+27,10,15,21,Man,10th-12th pass,True,1,True,72848040.15,5.25,3.88,-1.38
+28,10,16,60,Man,Post Graduate,False,0,False,986354004.43,8.23,6.27,-1.96
+29,10,15,22,Woman,Graduate,False,1,True,72848040.15,6.97,0.97,-6.01
+30,10,18,50,Woman,10th-12th pass,False,0,False,9925889.84,3.26,3.17,-0.09
+31,11,25,30,Woman,10th-12th pass,False,0,False,33656005.8,4.73,3.67,-1.06
+32,11,25,35,Man,Below 10th,False,0,False,33656005.8,5.73,5.08,-0.65
+33,11,25,38,Woman,10th-12th pass,False,0,False,33656005.8,9.73,9.96,0.23
+34,11,26,48,Woman,Below 10th,False,0,False,84910226.37,5.89,5.64,-0.25
+35,11,27,49,Woman,Post Graduate,False,0,False,5167832.08,2.07,2.08,0.01
+36,11,24,19,Man,10th-12th pass,False,2,False,25809500.82,6.14,4.65,-1.49
+37,11,27,45,Woman,10th-12th pass,False,0,False,5167832.08,5.4,5.17,-0.23
+38,11,26,41,Woman,Graduate,False,0,False,84910226.37,7.0,6.49,-0.51
+39,11,27,32,Woman,10th-12th pass,False,0,False,5167832.08,3.08,3.41,0.33
+40,11,27,33,Man,Post Graduate,True,0,False,5167832.08,4.06,3.72,-0.34
+41,12,29,18,Man,10th-12th pass,True,0,False,26047159.3,5.63,6.23,0.59
+42,12,31,51,Man,Below 10th,True,0,False,6237245.72,4.32,3.71,-0.61
+43,12,29,42,Man,Graduate,False,0,False,26047159.3,7.31,7.32,0.02
+44,12,30,39,Woman,Graduate,False,2,True,10205337.02,5.09,0.0,-5.09
+45,12,32,47,Woman,10th-12th pass,True,0,False,32148330.33,5.74,7.15,1.41
+46,12,34,47,Woman,10th-12th pass,True,0,False,33343710.46,2.7,2.96,0.26
+47,12,34,39,Man,Graduate,False,0,False,33343710.46,5.53,5.84,0.31
+48,12,28,35,Man,10th-12th pass,False,0,False,8124624.28,5.26,5.93,0.67
+49,12,32,44,Man,10th-12th pass,True,0,False,32148330.33,0.53,0.0,-0.53
+50,12,33,33,Man,Graduate,True,4,True,33487511.64,6.77,5.52,-1.25
+51,13,40,43,Man,Graduate,False,0,False,18890901.01,6.13,6.54,0.4
+52,13,36,47,Man,10th-12th pass,False,0,False,69700199.79,8.02,8.05,0.03
+53,13,39,18,Man,Graduate,False,0,False,9408524.41,5.68,6.75,1.06
+54,13,35,40,Woman,Graduate,False,2,True,40678742.35,4.38,0.74,-3.64
+55,13,40,33,Woman,10th-12th pass,True,0,False,18890901.01,6.51,6.52,0.01
+56,13,37,37,Man,Post Graduate,False,2,False,10542130.54,7.09,6.22,-0.88
+57,13,38,33,Woman,Graduate,False,0,False,24502901.11,4.7,4.4,-0.3
+58,13,37,36,Man,Post Graduate,False,2,False,10542130.54,10.0,10.0,0.0
+59,13,39,32,Woman,Graduate,False,0,False,9408524.41,6.38,6.63,0.24
+60,13,37,32,Woman,Graduate,False,2,False,10542130.54,3.8,1.54,-2.26
+61,14,45,55,Man,10th-12th pass,False,0,False,12431015.91,5.57,6.33,0.76
+62,14,43,19,Woman,10th-12th pass,False,0,False,9921050.98,4.77,4.1,-0.66
+63,14,43,38,Woman,10th-12th pass,False,0,False,9921050.98,4.0,3.14,-0.87
+64,14,45,41,Man,Graduate,True,0,False,12431015.91,7.89,5.81,-2.08
+65,14,45,49,Man,Graduate,False,0,False,12431015.91,5.65,5.17,-0.47
+66,14,45,54,Woman,10th-12th pass,True,0,False,12431015.91,6.41,5.85,-0.56
+67,14,42,39,Man,Graduate,True,3,False,52752417.8,7.01,6.55,-0.46
+68,14,42,48,Man,Graduate,False,3,False,52752417.8,8.93,7.49,-1.44
+69,14,46,32,Woman,10th-12th pass,False,5,False,10323075.26,3.59,2.35,-1.24
+70,14,43,25,Man,Graduate,True,0,False,9921050.98,6.49,7.31,0.82
+71,15,51,34,Man,Graduate,False,0,False,62603435.43,9.67,9.25,-0.41
+72,15,47,52,Woman,10th-12th pass,False,0,False,3097197.69,3.9,4.43,0.54
+73,15,51,32,Woman,Graduate,False,0,False,62603435.43,8.15,9.0,0.85
+74,15,51,40,Man,Graduate,False,0,False,62603435.43,5.29,3.98,-1.31
+75,15,49,67,Man,Graduate,False,0,False,51011289.24,5.34,5.22,-0.12
+76,15,47,29,Man,Graduate,False,0,False,3097197.69,5.03,4.1,-0.93
+77,15,47,23,Woman,Post Graduate,False,0,False,3097197.69,5.88,5.95,0.07
+78,15,49,24,Man,Graduate,False,0,False,51011289.24,4.35,2.04,-2.32
+79,15,52,27,Woman,Post Graduate,False,0,False,168424757.38,9.8,10.0,0.2
+80,15,47,18,Woman,Graduate,False,0,False,3097197.69,4.72,5.53,0.8
+81,16,57,53,Woman,Graduate,True,0,False,65706735.19,9.4,9.48,0.08
+82,16,57,57,Man,10th-12th pass,False,0,False,65706735.19,6.84,6.78,-0.06
+83,16,59,51,Man,10th-12th pass,False,0,False,246395716.66,7.06,6.86,-0.2
+84,16,53,18,Man,Post Graduate,False,0,False,75203759.92,2.49,2.65,0.16
+85,16,57,40,Woman,Graduate,False,0,False,65706735.19,7.04,5.58,-1.45
+86,16,54,36,Woman,10th-12th pass,True,1,True,18603659.05,5.39,5.37,-0.02
+87,16,61,45,Man,Graduate,False,6,False,16337317.97,1.99,0.4,-1.59
+88,16,57,28,Man,Graduate,False,0,False,65706735.19,4.46,5.3,0.84
+89,16,61,24,Woman,Post Graduate,True,6,False,16337317.97,5.57,5.19,-0.38
+90,16,57,18,Woman,Post Graduate,True,0,False,65706735.19,7.05,6.97,-0.08
+91,17,66,23,Man,Below 10th,False,0,False,47991371.81,6.94,8.18,1.24
+92,17,69,35,Man,Graduate,False,1,True,13830163.24,3.76,0.0,-3.76
+93,17,62,40,Woman,Post Graduate,False,0,False,3380591.41,4.74,4.07,-0.67
+94,17,64,34,Woman,Graduate,False,3,False,34503902.37,5.21,2.99,-2.21
+95,17,65,55,Woman,Post Graduate,True,0,False,241317970.92,1.45,0.0,-1.45
+96,17,70,51,Man,Below 10th,False,0,False,85994145.15,4.19,4.07,-0.13
+97,17,65,53,Man,Below 10th,False,0,False,241317970.92,6.6,6.44,-0.15
+98,17,65,45,Woman,Post Graduate,False,0,False,241317970.92,3.63,3.52,-0.11
+99,17,70,33,Man,Below 10th,False,0,False,85994145.15,4.52,4.63,0.11
+100,17,63,34,Woman,Post Graduate,False,0,False,14894913.5,2.76,1.52,-1.24
+101,18,71,42,Woman,10th-12th pass,False,0,False,107836042.1,4.0,4.34,0.34
+102,18,75,19,Man,Post Graduate,True,0,False,71260642.69,6.81,6.73,-0.08
+103,18,73,30,Woman,Graduate,False,0,False,56398290.83,5.56,6.11,0.55
+104,18,74,47,Man,Post Graduate,False,0,False,16559634.57,8.74,8.25,-0.5
+105,18,73,58,Man,Graduate,False,0,False,56398290.83,6.62,6.94,0.32
+106,18,76,52,Woman,Graduate,False,0,False,295251303.32,4.8,3.85,-0.95
+107,18,73,38,Man,10th-12th pass,True,0,False,56398290.83,7.56,7.9,0.34
+108,18,74,33,Man,Below 10th,False,0,False,16559634.57,2.62,2.94,0.33
+109,18,72,55,Man,10th-12th pass,False,0,False,17321227.56,2.6,2.01,-0.59
+110,18,75,38,Woman,Below 10th,True,0,False,71260642.69,6.5,6.41,-0.09
+111,19,81,40,Woman,Below 10th,True,0,False,107098508.77,8.61,8.54,-0.07
+112,19,80,30,Man,Graduate,True,5,True,88400141.9,6.27,4.45,-1.82
+113,19,80,52,Man,10th-12th pass,False,5,True,88400141.9,5.72,1.94,-3.78
+114,19,78,53,Woman,10th-12th pass,False,0,False,20307557.11,6.25,5.82,-0.43
+115,19,81,44,Woman,Graduate,True,0,False,107098508.77,7.09,8.45,1.36
+116,19,80,46,Man,Graduate,True,5,True,88400141.9,4.99,3.63,-1.36
+117,19,77,36,Man,10th-12th pass,False,0,False,178071652.48,4.78,5.61,0.83
+118,19,81,19,Man,Graduate,False,0,False,107098508.77,7.67,7.82,0.15
+119,19,79,49,Man,Graduate,False,0,False,35989007.58,3.35,3.37,0.01
+120,19,79,47,Woman,10th-12th pass,True,0,False,35989007.58,5.35,5.9,0.55
+121,20,86,27,Woman,10th-12th pass,False,0,False,74718466.71,5.36,5.24,-0.12
+122,20,86,71,Man,10th-12th pass,False,0,False,74718466.71,5.79,5.3,-0.48
+123,20,82,58,Man,Post Graduate,True,0,False,4181286.68,1.28,1.17,-0.11
+124,20,85,18,Woman,Post Graduate,False,0,False,229666499.68,6.85,7.03,0.19
+125,20,89,49,Man,10th-12th pass,False,4,False,104834157.28,4.73,2.82,-1.91
+126,20,84,38,Man,Graduate,True,3,True,77554501.75,4.22,4.38,0.16
+127,20,85,29,Woman,Below 10th,False,0,False,229666499.68,5.0,5.29,0.29
+128,20,83,25,Woman,10th-12th pass,False,0,False,25436066.18,5.28,5.34,0.06
+129,20,84,34,Woman,10th-12th pass,True,3,True,77554501.75,3.66,4.06,0.4
+130,20,87,18,Man,10th-12th pass,False,0,False,63440161.77,5.46,6.74,1.29
+131,21,99,32,Man,Post Graduate,False,0,False,16421989.7,4.53,6.55,2.02
+132,21,93,23,Woman,10th-12th pass,True,0,False,10097918.63,2.7,3.47,0.76
+133,21,93,50,Man,10th-12th pass,True,0,False,10097918.63,3.14,3.25,0.12
+134,21,91,37,Woman,10th-12th pass,False,0,False,8590197.07,6.62,6.77,0.15
+135,21,93,39,Woman,10th-12th pass,False,0,False,10097918.63,5.29,5.5,0.21
+136,21,93,44,Man,Graduate,False,0,False,10097918.63,3.18,3.12,-0.06
+137,21,91,38,Man,10th-12th pass,False,0,False,8590197.07,3.54,4.45,0.91
+138,21,95,44,Man,Graduate,False,0,False,12207974.03,7.67,8.04,0.37
+139,21,95,41,Woman,Post Graduate,False,0,False,12207974.03,6.59,6.15,-0.44
+140,21,98,27,Man,Graduate,False,0,False,19666050.17,5.6,6.0,0.41
+141,22,103,37,Woman,Graduate,False,1,True,18581133.5,3.63,0.6,-3.03
+142,22,100,51,Woman,Graduate,False,0,False,9236083.3,2.98,4.29,1.31
+143,22,102,37,Man,10th-12th pass,False,0,False,2942719.35,3.19,3.11,-0.08
+144,22,104,44,Woman,Post Graduate,False,0,False,25479220.38,7.7,8.0,0.3
+145,22,100,42,Woman,Graduate,False,0,False,9236083.3,4.34,4.93,0.59
+146,22,101,42,Woman,10th-12th pass,True,0,False,137652369.21,3.42,4.79,1.37
+147,22,102,41,Man,10th-12th pass,False,0,False,2942719.35,4.15,2.44,-1.71
+148,22,103,27,Man,Post Graduate,True,1,True,18581133.5,7.86,7.65,-0.21
+149,22,103,18,Man,Post Graduate,False,1,True,18581133.5,5.02,2.34,-2.68
+150,22,103,20,Woman,Graduate,False,1,True,18581133.5,5.49,1.55,-3.94
+151,23,105,24,Man,Graduate,True,0,False,8901051.48,7.71,8.1,0.39
+152,23,106,70,Man,Post Graduate,False,0,False,41908905.6,6.18,5.36,-0.82
+153,23,109,27,Man,10th-12th pass,False,0,False,3883812.89,6.59,5.73,-0.86
+154,23,110,42,Woman,Graduate,False,0,False,9374889.08,6.0,6.02,0.02
+155,23,112,23,Man,Post Graduate,False,2,False,45570873.89,7.97,6.73,-1.25
+156,23,107,67,Woman,Graduate,False,0,False,43911913.16,5.68,6.96,1.28
+157,23,107,34,Woman,Graduate,True,0,False,43911913.16,5.53,5.66,0.13
+158,23,112,41,Man,10th-12th pass,False,2,False,45570873.89,10.0,10.0,0.0
+159,23,111,24,Woman,Graduate,False,0,False,12805930.52,7.39,8.61,1.23
+160,23,106,40,Woman,10th-12th pass,False,0,False,41908905.6,6.47,5.38,-1.09
+161,24,118,55,Woman,Graduate,False,0,False,60149647.46,7.12,7.15,0.03
+162,24,118,35,Man,10th-12th pass,False,0,False,60149647.46,7.87,7.36,-0.52
+163,24,113,18,Man,Post Graduate,False,2,False,12429910.89,2.98,0.03,-2.96
+164,24,115,24,Man,10th-12th pass,False,0,False,15201688.59,6.42,6.45,0.03
+165,24,116,40,Woman,Post Graduate,False,0,False,90542989.17,5.48,5.46,-0.02
+166,24,114,39,Man,10th-12th pass,False,0,False,35017655.26,4.29,3.64,-0.64
+167,24,120,29,Man,10th-12th pass,False,0,False,29504486.09,2.65,2.8,0.15
+168,24,115,44,Woman,10th-12th pass,False,0,False,15201688.59,1.55,2.25,0.7
+169,24,120,18,Woman,Graduate,False,0,False,29504486.09,7.54,7.85,0.3
+170,24,115,21,Man,10th-12th pass,True,0,False,15201688.59,3.47,2.69,-0.79
+171,25,121,52,Man,10th-12th pass,False,0,False,9419643.41,5.87,5.56,-0.31
+172,25,124,36,Man,Graduate,True,2,True,29140911.08,3.88,1.14,-2.74
+173,25,125,26,Woman,10th-12th pass,False,0,False,442490140.91,9.64,10.0,0.36
+174,25,123,29,Man,Graduate,False,0,False,70485191.23,5.71,5.66,-0.05
+175,25,121,31,Man,10th-12th pass,True,0,False,9419643.41,5.8,5.77,-0.03
+176,25,121,43,Man,Graduate,False,0,False,9419643.41,5.47,6.46,0.99
+177,25,124,41,Man,Graduate,False,2,True,29140911.08,5.32,0.94,-4.38
+178,25,123,18,Man,Graduate,False,0,False,70485191.23,2.62,2.81,0.19
+179,25,125,18,Man,Graduate,True,0,False,442490140.91,5.11,4.84,-0.26
+180,25,122,32,Man,10th-12th pass,True,3,True,99500423.68,3.25,1.58,-1.67
+181,26,133,64,Woman,10th-12th pass,False,0,False,7151420.03,5.71,5.23,-0.48
+182,26,128,27,Woman,Graduate,False,2,False,394275401.6,5.26,3.76,-1.5
+183,26,131,27,Man,Graduate,False,0,False,4622946.14,5.91,6.08,0.17
+184,26,132,38,Woman,10th-12th pass,False,0,False,18736274.52,5.21,6.67,1.46
+185,26,130,50,Woman,Graduate,True,0,False,5844683.55,3.66,4.62,0.96
+186,26,133,55,Man,10th-12th pass,True,0,False,7151420.03,5.95,5.81,-0.15
+187,26,131,55,Woman,10th-12th pass,False,0,False,4622946.14,7.24,6.91,-0.33
+188,26,127,42,Man,10th-12th pass,True,0,False,192481561.62,5.69,4.4,-1.29
+189,26,130,53,Woman,10th-12th pass,True,0,False,5844683.55,2.99,3.38,0.39
+190,26,134,38,Woman,Post Graduate,True,0,False,24527910.25,4.81,4.8,-0.01
+191,27,139,32,Woman,10th-12th pass,True,0,False,97826944.63,2.75,1.91,-0.84
+192,27,138,45,Woman,Post Graduate,False,0,False,5135753.54,3.47,3.18,-0.29
+193,27,138,34,Woman,10th-12th pass,False,0,False,5135753.54,7.09,6.53,-0.56
+194,27,135,37,Man,Graduate,False,0,False,13236055.81,6.56,6.18,-0.37
+195,27,141,45,Man,Graduate,False,0,False,15993566.6,5.56,4.59,-0.97
+196,27,139,31,Woman,10th-12th pass,False,0,False,97826944.63,4.1,3.77,-0.33
+197,27,140,23,Man,Post Graduate,False,0,False,13565328.32,6.1,5.49,-0.61
+198,27,141,42,Woman,Below 10th,False,0,False,15993566.6,7.61,7.15,-0.46
+199,27,136,40,Man,10th-12th pass,False,0,False,18247252.17,10.0,9.32,-0.68
+200,27,139,43,Man,10th-12th pass,False,0,False,97826944.63,5.51,5.53,0.02
+201,28,143,32,Woman,Post Graduate,False,0,False,6099852.0,4.63,4.03,-0.61
+202,28,142,22,Woman,10th-12th pass,False,0,False,7354554.5,2.56,2.12,-0.44
+203,28,142,59,Man,Graduate,False,0,False,7354554.5,4.89,5.3,0.42
+204,28,143,36,Man,10th-12th pass,True,0,False,6099852.0,5.39,4.92,-0.47
+205,28,142,30,Woman,Post Graduate,False,0,False,7354554.5,5.07,4.59,-0.47
+206,28,145,44,Man,Graduate,False,0,False,156114770.82,3.51,2.33,-1.17
+207,28,144,54,Woman,10th-12th pass,False,0,False,4358802.45,7.07,8.17,1.09
+208,28,144,53,Woman,Post Graduate,True,0,False,4358802.45,7.91,7.71,-0.2
+209,28,142,41,Woman,Graduate,False,0,False,7354554.5,6.0,5.32,-0.69
+210,28,145,39,Man,10th-12th pass,False,0,False,156114770.82,7.47,9.68,2.21
